@@ -1,0 +1,7 @@
+flashinplayer allows you to watch streaming flash videos in your favorite video player, without the need to download them, you can if you like, can save the video to hard disk for later use.
+
+Usage
+---------------
+./flashinplayer.sh <player>
+
+<player> optional, e.g vlc other totem will be used 
